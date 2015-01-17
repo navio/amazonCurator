@@ -1,0 +1,2 @@
+# amazonCurator
+Amazon Products Curator 
