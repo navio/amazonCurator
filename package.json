@@ -1,5 +1,5 @@
 {
-  "name": "amazonCurator",
+  "name": "amazoncurator",
   "version": "0.0.0",
   "description": "This codebase will provide an ecosystem to use amazon api an display products using an API to redirect.",
   "main": "index.js",
