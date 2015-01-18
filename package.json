@@ -1,0 +1,32 @@
+{
+  "name": "amazonCurator",
+  "version": "0.0.0",
+  "description": "This codebase will provide an ecosystem to use amazon api an display products using an API to redirect.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js",
+    "test": "node --harmony test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/navio/amazonCurator.git"
+  },
+  "engines": {
+    "node": "^0.11.11"
+  },
+  "keywords": [
+    "Amazon",
+    "Curator"
+  ],
+  "author": "Alberto Navarro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navio/amazonCurator/issues"
+  },
+  "homepage": "https://github.com/navio/amazonCurator",
+  "dependencies": {
+    "amazon-product-api": "^0.1.2",
+    "koa": "^0.14.0",
+    "koa-router": "^3.8.0"
+  }
+}
